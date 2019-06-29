@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="homeTeamTextView" type="id">id</item>
+    <item name="awayTeamTextView" type="id">id</item>
+    <item name="homeScoreTextView" type="id">id</item>
+    <item name="awayScoreTextView" type="id">id</item>
+    <item name="eventDateTextView" type="id">id</item>
+    <item name="main_container" type="id">id</item>
+    <item name="swipeRefreshLayout" type="id">id</item>
+    <item name="bottomNavigationView" type="id">id</item>
+    <item name="prev_match_menu" type="id">id</item>
+    <item name="next_match_menu" type="id">id</item>
+    <item name="favorites" type="id">id</item>
+    <item name="matchFavoriteRecyclerView" type="id">id</item>
+    <item name="matchNextRecyclerView" type="id">id</item>
+    <item name="matchPrevRecyclerView" type="id">id</item>
+</resources>

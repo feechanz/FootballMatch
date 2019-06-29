@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Football Match Schedule</string>
+
+    <string name="check_network">Please check your connection</string>
+    <string name="something_error">Oops.. something error</string>
+    <string name="favorites">Favorites</string>
+</resources>
